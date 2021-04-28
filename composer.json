@@ -19,8 +19,8 @@
         "doctrine/annotations": "^1.10.2",
         "liip/metadata-parser": "^0.2",
         "pnz/json-exception": "^1.0",
-        "symfony/filesystem": "^4.4 || ^5.0",
-        "symfony/finder": "^4.4 || ^5.0",
+        "symfony/filesystem": ">=3.3",
+        "symfony/finder": ">=3.3",
         "twig/twig": "^2.7 || ^3.0"
     },
     "require-dev": {
